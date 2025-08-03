@@ -55,8 +55,8 @@ A full-stack web application for product management with user authentication, da
 
 1. Clone the repository:
 ```
-git clone https://github.com/devaakash26/Zynetic_PMP.git
-cd zyntic
+git clone https://github.com/kiranchoudharyy/Zynetic.git
+cd zynetic
 ```
 
 2. Set up the backend:
