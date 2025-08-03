@@ -60,7 +60,7 @@ if (process.env.NODE_ENV === 'production') {
 
 // Middleware
 app.use(cors({
-  origin: ['http://localhost:5173', 'https://zynetic-aakash.vercel.app'],
+  origin: ['http://localhost:5173', 'https://zynetic-kiran.vercel.app'],
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization', 'X-Requested-With', 'Accept'],
   credentials: false
